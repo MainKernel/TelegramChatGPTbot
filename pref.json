@@ -1,0 +1,5 @@
+{
+  "botKey" : "Telegram Bot API key",
+  "gptKey" : "Chat GPT API key",
+  "DB_URL" : "Enter database url"
+}
